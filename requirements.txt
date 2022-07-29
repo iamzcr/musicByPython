@@ -50,7 +50,7 @@ pywin32==219
 PyYAML==3.11
 queuelib==1.2.2
 requests==2.7.0
-Scrapy==0.24.5
+Scrapy==2.6.2
 service-identity==14.0.0
 simplejson==3.8.2
 six==1.9.0
